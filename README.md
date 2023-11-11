@@ -34,3 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Helpers Folder
+
+Helper functions are small, reusable JavaScript functions that assist your React components in performing specific tasks. They are like specialized tools that simplify your code by breaking down complex operations into manageable steps.
+
+To identify tasks that can be abstracted into helper functions, consider functions that are reusable, have a specific purpose, and can be logically isolated from your main components.
+
+For instance, data validation, formatting, or calculations are prime candidates.
+
+Helper functions shine in situations where you need to perform similar operations in different parts of your application.
